@@ -1,0 +1,3 @@
+name : pai 
+age : 30
+tel : 08x-xxx-xxxx
