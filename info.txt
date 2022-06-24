@@ -1,3 +1,5 @@
 name : pai 
 age : 30
 tel : 08x-xxx-xxxx
+
+git remote set-url origin https://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@github.com/nakprad/pai-info.git
